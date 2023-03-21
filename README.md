@@ -6,4 +6,4 @@
 - 📫 #Inbox_me : faidterence@outlook.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faid-terence&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faid-terence&show_icons=true&theme=highcontrast)
