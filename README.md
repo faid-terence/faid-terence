@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**faid-terence/faid-terence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋, Welcome to Terence Faid JABO's Github
 - 🔭 I’m currently working on a team project 
 - 🌱 I’m currently learning ReactJs and Python
 - 👯 I’m looking to collaborate on NodeJs 
@@ -12,4 +6,3 @@ Here are some ideas to get you started:
 - 📫 #Inbox_me : faidterence@outlook.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: ...
--->
