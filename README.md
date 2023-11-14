@@ -37,5 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faid-terence&show_icons=true&locale=en" alt="faid-terence" /></p>
 
 
+## Github Commits Graph
+
+<a href="http://www.github.com/faid-terence"><img src="https://github-readme-activity-graph.vercel.app/graph?username=faid-terence&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
