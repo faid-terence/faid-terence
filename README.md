@@ -18,13 +18,15 @@
   </div>
   <br>
 <div id="HeaderTitile" align="center">
-  <h1>Hi there 👋, Welcome to Faid Terence's GitHub Profile </h1>
+<h1>Hey there! 👋 Welcome to Faid Terence's GitHub Profile</h1>
   </div>
 <div class="text">
-    <p>Hello, I'm Terence Faid JABO, a dedicated Full Stack Developer with a strong commitment to crafting seamless and innovative web solutions. My expertise encompasses a wide range of technologies, including HTML, CSS, JavaScript, React.js, Node.js, NestJs Java, C++, and TypeScript.</p>
-    <p>Passionate about creating not just visually appealing, but also highly functional and accessible websites, I believe in the intersection of good design, usability, and accessibility. My goal is to contribute to the development of web applications that offer a superior user experience.</p>
-    <p>Continual learning is at the core of my professional journey, and I am enthusiastic about staying abreast of the latest advancements in technology. I particularly enjoy working with Java, C++, and TypeScript, where I continually seek opportunities to refine my skills and apply best practices.</p>
-    <p>Beyond coding, you'll find me engaged in exploring the latest developments in the tech industry, whether it's through hands-on projects, reading tech literature, or staying connected with the vibrant developer community. In my downtime, I find relaxation in reading books, Playing Basketball, and occasionally challenging my skills in the game center.</p>
+    <p>Hey there, I'm Terence Faid JABO, your go-to Full Stack Developer, crafting sleek and inventive web solutions. I'm all about HTML, CSS, JavaScript, React.js, Node.js, NestJs, Java, C++, and TypeScript.
+</p>
+    <p>I thrive on building not just visually stunning, but also super-functional and accessible websites. For me, it's where killer design meets seamless usability and accessibility, all in one package.</p>
+    <p>Learning never stops in my world. I geek out over Java, C++, and TypeScript, constantly honing my skills and embracing the latest tech trends.</p>
+    <p>Beyond the code, I'm all about riding the tech wave – diving into new projects, devouring tech reads, and soaking in the developer scene. And when I'm off-duty, catch me buried in books, hitting the hoops, or mastering the game center.</p>
+  <p><strong>Let's build something incredible together!</strong></p>
 </div>
 
 
