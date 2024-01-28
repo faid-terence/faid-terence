@@ -38,7 +38,7 @@
 ![faid-terence's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faid-terence&theme=vue-dark&hide_border=true)
 ![faid-terence's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faid-terence&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-
+[![](https://visitcount.itsvg.in/api?id=faid-terence&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Github Commits Graph
 
