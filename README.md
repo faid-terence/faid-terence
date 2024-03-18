@@ -18,7 +18,7 @@
   </div>
   <br>
 <div id="HeaderTitile" align="center">
-<h1>Hey there! 👋 Welcome to Faid Terence's GitHub Profile</h1>
+<h1>Hello there! 👋 Welcome to Faid Terence's GitHub Profile</h1>
   </div>
 <div class="text">
     <p>Hey there, I'm Terence Faid JABO, your go-to Full Stack Developer, crafting sleek and inventive web solutions. I'm all about HTML, CSS, JavaScript, React.js, Node.js, NestJs, Java, C++, and TypeScript.
