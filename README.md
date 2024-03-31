@@ -23,9 +23,7 @@
 <div class="text">
     <p>Hey there, I'm Terence Faid JABO, your go-to Full Stack Developer, crafting sleek and inventive web solutions. I'm all about HTML, CSS, JavaScript, React.js, Node.js, NestJs, Java, C++, and TypeScript.
 </p>
-    <p>I thrive on building not just visually stunning, but also super-functional and accessible websites. For me, it's where killer design meets seamless usability and accessibility, all in one package.</p>
     <p>Learning never stops in my world. I geek out over Java, C++, and TypeScript, constantly honing my skills and embracing the latest tech trends.</p>
-    <p>Beyond the code, I'm all about riding the tech wave – diving into new projects, devouring tech reads, and soaking in the developer scene. And when I'm off-duty, catch me buried in books, hitting the hoops, or mastering the game center.</p>
   <p><strong>Let's build something incredible together!</strong></p>
 </div>
 
@@ -37,9 +35,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=faid-terence&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Github Commits Graph
 
-<a href="http://www.github.com/faid-terence"><img src="https://github-readme-activity-graph.vercel.app/graph?username=faid-terence&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
