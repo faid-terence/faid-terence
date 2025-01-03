@@ -8,7 +8,7 @@
   <h1>Hello there! 👋 Welcome to Faid Terence's GitHub Profile</h1>
 
   <p>
-    <a href="https://github.com/FaidTerence" target="_blank">
+    <a href="https://github.com/faid-terence" target="_blank">
       <img src="https://img.shields.io/github/followers/faid-terence?label=Follow&style=social" />
     </a>
   </p>
