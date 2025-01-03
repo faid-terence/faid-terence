@@ -7,4 +7,4 @@
   Hey there, I'm Terence Faid JABO, a passionate Software Engineer and Full Stack Developer dedicated to crafting innovative web solutions. My expertise spans across HTML, CSS, JavaScript, React.js, Node.js, NestJs, Java, C++, TypeScript, C#, ASP.NET, and AI technologies.
 </p>
 
-[![GitHub Visits](https://visitcount.itsvg.in/api?id=faid-terence&icon=0&color=0)](https://visitcount.itsvg.in)
+
