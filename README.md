@@ -16,9 +16,6 @@
 
 ---
 
-### 🚀 About Me
-I'm a passionate full-stack developer specializing in web and mobile development with expertise in .NET, NestJS, React, and Flutter.
-
 ### 🛠️ Technologies & Tools
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
